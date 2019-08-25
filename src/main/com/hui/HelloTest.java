@@ -13,4 +13,10 @@ public class HelloTest {
         String value1 = "哈哈哈";
         System.out.println(value1);
     }
+
+    public void test2() {
+        String value2 = "嘿嘿";
+        System.out.println(value2);
+
+    }
 }
