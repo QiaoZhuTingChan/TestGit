@@ -21,7 +21,7 @@ public class HelloTest {
     }
 
     public void test3() {
-        String value3 = "嘻嘻a";
+        String value3 = "嘻嘻b";
         System.out.println(value3);
     }
 }
