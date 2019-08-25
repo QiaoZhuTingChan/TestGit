@@ -15,7 +15,7 @@ public class HelloTest {
     }
 
     public void test2() {
-        String value2 = "嘿嘿";
+        String value2 = "嘿嘿嘿";
         System.out.println(value2);
 
     }
