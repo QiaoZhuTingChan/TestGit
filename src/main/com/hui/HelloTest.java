@@ -19,4 +19,9 @@ public class HelloTest {
         System.out.println(value2);
 
     }
+
+    public void test3() {
+        String value3 = "嘻嘻";
+        System.out.println(value3);
+    }
 }
